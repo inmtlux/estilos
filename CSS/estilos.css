@@ -1,0 +1,24 @@
+/*Importar fuente:*/
+@font-face {
+    font-family: calata;
+    src: url('font/dale.ttf');
+}
+body{
+    background: rgb(238, 157, 35);
+}
+#novios{
+    font-family: calata ,Arial;
+    font-size: 2em;
+    text-align: center;
+    color: rgb(18, 212, 238);
+    text-shadow: 20px 30px 5px rgb(241, 239, 70);
+}
+#seccion1{
+    text-transform: lowercase;
+    word-spacing: 30px;
+    line-height: 200%;
+}
+#seccion2{
+    text-indent: 20px;
+    letter-spacing: 5px;
+}
